@@ -1,4 +1,4 @@
-Numpy and Pandas Learning
+Numpy 
 
 learn from : 
     1. 莫凡python https://morvanzhou.github.io/ 
